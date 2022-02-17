@@ -7,8 +7,8 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Meny.unity
-    guid: 9a01dcf951c0e1c4bb221c22ad93ea54
+    path: Assets/Scenes/GameScene.unity
+    guid: b9674d3be1afc7c4d8b52e54dcd98a4b
   m_configObjects: {}
